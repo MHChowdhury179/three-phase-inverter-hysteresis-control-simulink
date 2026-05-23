@@ -26,8 +26,10 @@ The main objectives of this experiment are:
 ### Fig. 7.2: Three-Phase Inverter Waveform
 ![Three-phase inverter waveform](images/fig_7_2_three_phase_inverter_waveform.png)
 
-### Fig. 7.3: Hysteresis Control Block Diagram
-![Hysteresis control block diagram](images/fig_7_3_hysteresis_grid_connected_single_phase_inverter_block_diagram.png)
+<div align="center">
+  <img src="https://github.com/MHChowdhury179/three-phase-inverter-hysteresis-control-simulink/blob/f9b077455a8cc75003f2e36bbbf38fe9be39f9b4/fig_7_3_hysteresis_grid_connected_single_phase_inverter_block_diagram.png?raw=true" alt="Hysteresis Grid Connected Single Phase Inverter Block Diagram" width="700">
+  <p><b>Figure 7.3:</b> Hysteresis Grid Connected Single Phase Inverter Block Diagram</p>
+</div>
 
 ### Fig. 7.4: Hysteresis Control Waveform
 ![Hysteresis control waveform](images/fig_7_4_hysteresis_control_waveform.png)
