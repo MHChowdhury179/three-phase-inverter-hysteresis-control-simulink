@@ -20,13 +20,13 @@ The main objectives of this experiment are:
 
 <div align="center">
   <img src="https://github.com/MHChowdhury179/three-phase-inverter-hysteresis-control-simulink/blob/4317edff0557cccf6674913d9a8bbe609c639d77/fig_7_1_three_phase_inverter_block_diagram.png?raw=true" alt="Three-Phase Inverter Block Diagram" width="700">
-  <p><b>Figure 7.1:</b> Three-Phase Inverter Block Diagram</p>
+  <p><b>Figure 1:</b> Three-Phase Inverter Block Diagram</p>
 </div>
 
 
 <div align="center">
   <img src="https://github.com/MHChowdhury179/three-phase-inverter-hysteresis-control-simulink/blob/f9b077455a8cc75003f2e36bbbf38fe9be39f9b4/fig_7_3_hysteresis_grid_connected_single_phase_inverter_block_diagram.png?raw=true" alt="Hysteresis Grid Connected Single Phase Inverter Block Diagram" width="700">
-  <p><b>Figure 7.3:</b> Hysteresis Grid Connected Single Phase Inverter Block Diagram</p>
+  <p><b>Figure 2:</b> Hysteresis Grid Connected Single Phase Inverter Block Diagram</p>
 </div>
 
 
@@ -113,12 +113,12 @@ This method provides fast dynamic response and simple implementation for inverte
 
 <div align="center">
   <img src="https://github.com/MHChowdhury179/three-phase-inverter-hysteresis-control-simulink/blob/28348f2df696302016062228e776bb5c1dc121a6/fig_7_2_three_phase_inverter_waveform.png?raw=true" alt="Three-Phase Inverter Waveform" width="700">
-  <p><b>Figure 7.2:</b> Three-Phase Inverter Wave form</p>
+  <p><b>Figure 3:</b> Three-Phase Inverter Wave form</p>
 </div>
 
 <div align="center">
   <img src="https://github.com/MHChowdhury179/three-phase-inverter-hysteresis-control-simulink/blob/f3d4d9802cbdc3a5b36ef3cd81c1312110bfcb2f/fig_7_4_hysteresis_control_waveform.png?raw=true" alt="Hysteresis Control Waveform" width="700">
-  <p><b>Figure 7.4:</b> hysteresis_control_waveform</p>
+  <p><b>Figure 4:</b> hysteresis_control_waveform</p>
 </div>
 
 ### *From the simulation results:*
@@ -128,7 +128,7 @@ This method provides fast dynamic response and simple implementation for inverte
 - The output voltage, gate signal, reference current, and current waveforms were observed successfully.
 - The simulation verified the basic operation of both inverter systems.
 
-### *Discussion*
+## Discussion
 
 This experiment investigated the operation of a three-phase inverter and hysteresis control of a grid-connected single-phase inverter using Simulink.
 
