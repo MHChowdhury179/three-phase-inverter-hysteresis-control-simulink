@@ -116,11 +116,22 @@ This method provides fast dynamic response and simple implementation for inverte
   <p><b>Figure 7.2:</b> Three-Phase Inverter Wave form</p>
 </div>
 
+<div align="center">
+  <img src="https://github.com/MHChowdhury179/three-phase-inverter-hysteresis-control-simulink/blob/f3d4d9802cbdc3a5b36ef3cd81c1312110bfcb2f/fig_7_4_hysteresis_control_waveform.png?raw=true" alt="Hysteresis Control Waveform" width="700">
+  <p><b>Figure 7.4:</b> hysteresis_control_waveform</p>
+</div>
 
-
-From the simulation results:
+### *From the simulation results:*
 
 - The three-phase inverter successfully generated switching signals and output waveforms.
 - The hysteresis controller generated gate pulses according to the reference current and measured current.
 - The output voltage, gate signal, reference current, and current waveforms were observed successfully.
 - The simulation verified the basic operation of both inverter systems.
+
+### *Discussion*
+
+This experiment investigated the operation of a three-phase inverter and hysteresis control of a grid-connected single-phase inverter using Simulink.
+
+For the three-phase inverter, a Wye-delta connection was used according to the simulation requirement. The generated waveforms confirmed the correct operation of the inverter switching logic.
+
+For the hysteresis-controlled inverter, necessary Simulink blocks and MATLAB Function logic were used to control the switching signal. The output waveform showed the expected behavior of the hysteresis control system.
