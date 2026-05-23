@@ -111,6 +111,11 @@ This method provides fast dynamic response and simple implementation for inverte
 
 ## Results
 
+<div align="center">
+  <img src="https://github.com/MHChowdhury179/three-phase-inverter-hysteresis-control-simulink/blob/28348f2df696302016062228e776bb5c1dc121a6/fig_7_2_three_phase_inverter_waveform.png?raw=true" alt="Three-Phase Inverter Waveform" width="700">
+  <p><b>Figure 7.2:</b> Three-Phase Inverter Wave form</p>
+</div>
+
 
 
 From the simulation results:
