@@ -18,9 +18,10 @@ The main objectives of this experiment are:
 
 ## Figures
 
-### Fig. 7.1: Three-Phase Inverter Block Diagram
-
-![Three-phase inverter block diagram](images/fig_7_1_three_phase_inverter_block_diagram.png)
+<div align="center">
+  <img src="https://github.com/MHChowdhury179/three-phase-inverter-hysteresis-control-simulink/blob/4317edff0557cccf6674913d9a8bbe609c639d77/fig_7_1_three_phase_inverter_block_diagram.png?raw=true" alt="Three-Phase Inverter Block Diagram" width="700">
+  <p><b>Figure 7.1:</b> Three-Phase Inverter Block Diagram</p>
+</div>
 
 ### Fig. 7.2: Three-Phase Inverter Waveform
 ![Three-phase inverter waveform](images/fig_7_2_three_phase_inverter_waveform.png)
