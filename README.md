@@ -1,37 +1,25 @@
-# Three Phase Inverter and Hysteresis Control Using Simulink
+# Three-Phase Inverter and Hysteresis Control of Grid-Connected Single-Phase Inverter 
 
-This repository contains materials extracted from the experiment report **"Three phase inverter and hysteresis control of grid connected single phase inverter using Simulink"**.
+This repository contains a MATLAB/Simulink-based power electronics simulation project on:
 
-> Note: The original Simulink `.slx` files are not available. The repository is organized using the report PDF, extracted block diagrams/waveforms, and MATLAB function code from the PDF.
+1. Three-Phase Inverter
+2. Hysteresis Control of Grid-Connected Single-Phase Inverter
+
 
 ## Objectives
 
-- Develop and study a three-phase inverter using Simulink.
-- Analyze hysteresis control of a grid-connected single-phase inverter.
-- Observe block diagrams, gate signals, output voltage/current, and waveform behavior.
+The main objectives of this experiment are:
 
-## Repository Structure
-
-```text
-.
-├── README.md
-├── report/
-│   └── Razon_Efaz.pdf
-├── images/
-│   ├── fig_7_1_three_phase_inverter_block_diagram.png
-│   ├── fig_7_2_three_phase_inverter_waveform.png
-│   ├── fig_7_3_hysteresis_grid_connected_single_phase_inverter_block_diagram.png
-│   └── fig_7_4_hysteresis_control_waveform.png
-├── src/
-│   ├── three_phase_gate_signal.m
-│   └── hysteresis_controller.m
-└── docs/
-    └── matlab_code_from_pdf.md
-```
+-To develop and study a three-phase inverter using Simulink.
+-To manage voltage rise and reduce the chance of appliance failure due to high voltage.
+-To understand why voltage rise in a single-phase connection is higher compared to a three-phase power system.
+-To construct and analyze a hysteresis control system for a grid-connected single-phase inverter using Simulink.
+-To observe and analyze inverter output voltage, current, reference signal, and gate pulses.
 
 ## Figures
 
 ### Fig. 7.1: Three-Phase Inverter Block Diagram
+
 ![Three-phase inverter block diagram](images/fig_7_1_three_phase_inverter_block_diagram.png)
 
 ### Fig. 7.2: Three-Phase Inverter Waveform
